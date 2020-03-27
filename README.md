@@ -5,5 +5,5 @@
  ![FlipUI gif]( https://media.giphy.com/media/J33kcvHBFkM9bEFVaA/giphy.gif)
  
  <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/J33kcvHBFkM9bEFVaA/giphy.gif">
+  <img width="460" height="600" src="https://media.giphy.com/media/J33kcvHBFkM9bEFVaA/giphy.gif">
 </p>
